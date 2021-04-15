@@ -30,4 +30,4 @@ A view that lists all squirrel sightings with links to view each single sighting
 A view to create a new sightings.
 
 ## /sightings/stats
-A view with general stats about the sightings.
+A view with general statistics about the sightings.
