@@ -10,10 +10,14 @@ Our Unis are "UNIs: [ht2544, sr3761]".
 
 # Management commands
 Import data:
+```
 - $ python manage.py import_squirrel_data /path/to/file.csv
+```
 
 Export data:
+```
 - $ python manage.py export_squirrel_data /path/to/file.csv
+```
 
 # Views
 ## /map
