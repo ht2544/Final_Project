@@ -10,7 +10,7 @@ def main():
         from django.core.management import execute_from_command_line
     except ImportError as exc:
         raise ImportError(
-            "Cannot import Django, check if django installed and on the path of Python"
+            "Cannot import Django, check if django installed and ti is on the path of Python"
         ) from exc
     execute_from_command_line(sys.argv)
 
