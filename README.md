@@ -27,7 +27,7 @@ A view that shows a map that displays the location of the squirrel sightings.
 A view that lists all squirrel sightings with links to view each single sighting.
  
 ## /sightings/add
-A view to create a new sighting.
+A view to create a new sightings.
 
 ## /sightings/stats
 A view with general stats about the sightings.
